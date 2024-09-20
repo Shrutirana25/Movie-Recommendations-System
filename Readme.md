@@ -23,11 +23,11 @@ The system processes a dataset of over 4,800 movies, including metadata like tit
 
 ## Screenshots:
 
-![Movie Search Input](1.jpg)
-*Enter the movie name and get recommendations.*
+![Movie Dataset](1.png)
+*4800 movies dataset.*
 
-![Recommendation Output](2.jpg)
-*Top similar movie recommendations.*
+![Recommendation Output](2.png)
+*Enter the movie name and get recommendations*
 
 ## Getting Started:
 To run the project locally:
